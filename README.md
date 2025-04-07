@@ -2,7 +2,7 @@
 
 - Tenho 19 anos.
 - Atualmente estagiando como técnico de sistemas com foco em redes.
-- Trabalho com HTML | CSS | JavaScript | PHP | Python.
+- Trabalho com HTML | CSS | JavaScript | PHP | Python | TypeScript.
 - Estou cursando Bacharel em Sistemas de Informação (6/7).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichasISBACK&show_icons=true&theme=transparent) <br>
