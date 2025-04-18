@@ -1,4 +1,4 @@
-## 👨🏻‍💻Olá , sou Luis Eduardo Michaud Carvalho , Desenvolvedor Back-End!
+## 👨🏻‍💻Olá , sou Luis Eduardo Michaud Carvalho , Desenvolvedor Front-End!
 
 - Tenho 19 anos.
 - Atualmente estagiando como técnico de sistemas com foco em redes.
