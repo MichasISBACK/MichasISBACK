@@ -39,7 +39,7 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste!
   
 
 </div>
-</div>
+
 </div> 
 
 ## 📫 Contato
