@@ -1,9 +1,8 @@
-## 👨🏻‍💻Olá , sou Luis Eduardo Michaud Carvalho!
+## 👨🏻‍💻Olá , Eu sou Luis Eduardo Michaud Carvalho!
 
-- Tenho 19 anos.
-- Atualmente fazendo estágio na área de TI na educação (infraestrutura e hardware).
-- Trabalho com HTML | CSS | JavaScript | PHP | Python | TypeScript.
-- Estou cursando Bacharel em Sistemas de Informação (6/7).
+-Sou estudante de Sistemas de Informação e profissional da área administrativa, apaixonado por tecnologia e desenvolvimento de software.
+Atualmente estou no 6º período do bacharelado em Sistemas de Informação.
+Aqui você pode encontrar alguns dos meus projetos, espero que goste!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichasISBACK&show_icons=true&theme=transparent) <br>
 
