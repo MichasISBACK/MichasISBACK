@@ -4,7 +4,14 @@ Sou estudante de Sistemas de Informação e profissional da área administrativa
 Atualmente estou no 6º período do bacharelado em Sistemas de Informação.
 Aqui você pode encontrar alguns dos meus projetos, espero que goste!
 
+---
+
+## 📊 Minhas Estatísticas no GitHub  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichasISBACK&show_icons=true&theme=transparent) <br>
+
+---
+## 💻 Tecnologias e Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
