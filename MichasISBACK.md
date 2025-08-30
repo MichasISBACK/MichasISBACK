@@ -9,6 +9,7 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste!
 ## 📊 Minhas Estatísticas no GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichasISBACK&show_icons=true&theme=transparent) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichasISBACK&theme=transparent) <br>
 
 ---
 ## 💻 Tecnologias e Linguagens
